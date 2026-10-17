@@ -1,0 +1,9 @@
+{
+  "name": "Dr. Sehat AI",
+  "description": "Virtual health screening and triage assistant with symptom checking, skin lesion & chest X-ray screening, rPPG vitals, eye anemia check, cough analysis, Urdu voice triage, and doctor handoff.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
